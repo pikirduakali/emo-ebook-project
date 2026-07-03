@@ -9,12 +9,14 @@
 - **Karyakarsa** (mudah, lokal, cocok buat indie/zine)
 - **Gumroad** (internasional, otomatis)
 - Alternatif: Saweria, Tokopedia, Shopee, Payhip, Ko-fi
+- Fokus di Gumroad, jadi kontennya International
 
 ## Strategi
 - Bangun authority dulu: bikin konten Twitter/IG soal skena emo
 - Baru lempar ebook sebagai produk premium
 - Pre-order / early bird biar ada FOMO
 - Bundle: ebook + playlist spotify + discord eksklusif
+- Bikin profile IG & Threads untuk share
 
 ## Keuangan
 - Modal awal: nol (cuma waktu nulis)
